@@ -29,6 +29,13 @@
 - **Student Result Portal** — HTML, CSS, JavaScript
 - **Wireless Network Congestion Prediction** — CNN-LSTM, NS-3, Python
 
+## 🏆 Achievements
+
+- 🏅 Participated in college hackathons at CMRIT, Bengaluru.
+- 🎤 Participated in a symposium at Chennai Institute of Technology (CIT), Chennai.
+- ♟️ Reached the semi-final stage in the college chess tournament.
+- 💻 Completed hands-on web development projects during my SkillCraft Technology internship.
+
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/hariharanarulselvam/

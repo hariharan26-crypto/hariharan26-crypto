@@ -1,8 +1,13 @@
 # Hi 👋, I'm Hariharan
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Final-Year+ECE+Student;Aspiring+Software+Developer;Exploring+AI+%26+Cloud+Computing" alt="Typing SVG" />
 
 🎓 Final-Year Electronics and Communication Engineering Student at S.A. Engineering College, Chennai
 
 💻 Aspiring Software Developer passionate about web development, AI tools, and solving real-world problems.
+
+</div>
 
 ## 🚀 About Me
 
@@ -40,3 +45,9 @@
 
 - LinkedIn: https://www.linkedin.com/in/hariharanarulselvam/
 - GitHub: https://github.com/hariharan26-crypto
+
+<div align="center">
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects.
+
+</div>

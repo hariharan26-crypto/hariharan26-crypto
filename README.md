@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hariharan
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:141E30,50:243B55,100:4776E6&text=Hi,%20I'm%20Hariharan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&stroke=4776E6&strokeWidth=1" width="100%" alt="Hi, I'm Hariharan A banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Final-Year+ECE+Student;Aspiring+Software+Developer;Exploring+AI+%26+Cloud+Computing" alt="Typing SVG" />
 
 🎓 Final-Year Electronics and Communication Engineering Student at S.A. Engineering College, Chennai

@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:141E30,50:243B55,100:4776E6&text=Hi,%20I'm%20Hari%20Haran%20A&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&stroke=4776E6&strokeWidth=1" width="100%" alt="Hi, I'm Hari Haran A banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=210&section=header&text=Hi%2C%20I%27m%20Hari%20Haran%20A&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Hi, I'm Hari Haran A" />
 
-<h3>⚡ Aspiring Software Developer | Tech Explorer ⚡</h3>
+<h3>✦ Aspiring Software Developer | Tech Explorer ✦</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=0077CC&center=true&vCenter=true&width=650&lines=Final-Year+ECE+Student;Learning+Python%2C+Java+%26+Web+Development;Exploring+AI%2C+Computer+Vision+%26+AWS;Building+Projects+and+Growing+Every+Day" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Final-Year+ECE+Student;Learning+Python%2C+Java+%26+Web+Development;Exploring+AI%2C+Computer+Vision+%26+AWS;Building+Projects+and+Growing+Every+Day" alt="Animated introduction" />
 
 <br/>
 
 🎓 Final-Year Electronics and Communication Engineering Student at S.A. Engineering College, Chennai
 
 💻 Aspiring Software Developer passionate about web development, AI tools, and solving real-world problems.
+
+<br/>
+
+<i>✧ Learn. Build. Evolve. ✧</i>
 
 </div>
 
